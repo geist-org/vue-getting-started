@@ -1,10 +1,10 @@
 import Vue from 'vue'
-import ZeitUI from '@zeit-ui/vue'
+import GeistUI from '@geist-ui/vue'
 import App from './App.vue'
-import '@zeit-ui/vue/dist/zeit-ui.css'
+import '@geist-ui/vue/dist/geist-ui.css'
 
 Vue.config.productionTip = false
-Vue.use(ZeitUI)
+Vue.use(GeistUI)
 
 new Vue({
   render: h => h(App),

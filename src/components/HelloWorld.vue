@@ -1,7 +1,7 @@
 <template>
   <div class="zi-layout">
     <zi-card style="width: 400px">
-      <p>我的第一个 ZEIT UI 应用，看起来不错</p>
+      <p>我的第一个 Geist UI 应用，看起来不错</p>
       <zi-button>按钮 1</zi-button>
       <zi-spacer />
       <zi-button type="success">按钮 2</zi-button>
